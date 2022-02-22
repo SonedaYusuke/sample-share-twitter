@@ -9,7 +9,7 @@ const shareURL = (text) =>
 
 const TEXT = `この記事が熱い！！
 ↓↓↓↓↓↓↓↓
-https://zenn.dev/articles/a8340aea70c769/
+https://zenn.dev/soneda_yusuke/articles/a8340aea70c769
 ↑↑↑↑↑↑↑↑`;
 
 shareTwitterNG.addEventListener("click", () => {
